@@ -4,9 +4,9 @@ Este repositório abriga um simples bloco de notas (Notepad) desenvolvido em Jav
 
 # Funcionalidades
 <strong>Criar Notas: </strong> Crie novas notas com facilidade. <br>
-Editar: Edite o conteúdo das suas notas de forma intuitiva. <br>
-Salvar: Salve suas notas para referência futura. <br>
-Interface Simples: Uma interface de usuário minimalista e fácil de usar. <br>
+<strong>Editar: </strong> Edite o conteúdo das suas notas de forma intuitiva. <br>
+<strong>Salvar: </strong> Salve suas notas para referência futura. <br>
+<strong>Interface Simples: </strong> Uma interface de usuário minimalista e fácil de usar. <br>
 
 # Pré-requisitos
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java.
