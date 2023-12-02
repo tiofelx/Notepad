@@ -27,10 +27,10 @@ java Notepad
 
 Agora você pode começar a criar, editar e salvar suas notas!
 
-#Contribuição
+# Contribuição
 Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-#Licença
+# Licença
 Este projeto está licenciado sob a Licença MIT.
 
 Esperamos que este bloco de notas seja útil para suas necessidades diárias de tomada de notas. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
