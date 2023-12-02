@@ -12,15 +12,15 @@ Interface Simples: Uma interface de usuário minimalista e fácil de usar. <br>
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java.
 
 # Como Usar
-Clone o repositório:
+Clone o repositório: <br>
 bash $ <br>
 git clone https://github.com/tiofelx/Notepad.git
 
-Navegue até o diretório do projeto:
+Navegue até o diretório do projeto: <br>
 bash $ <br>
 cd Notepad
 
-Execute o bloco de notas:
+Execute o bloco de notas: <br>
 bash $ <br>
 javac Notepad.java
 java Notepad
