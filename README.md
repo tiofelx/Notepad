@@ -3,10 +3,10 @@
 Este repositório abriga um simples bloco de notas (Notepad) desenvolvido em Java. O bloco de notas é uma aplicação de desktop que permite aos usuários criar, editar e salvar notas de forma rápida e fácil.
 
 # Funcionalidades
-Criar Notas: Crie novas notas com facilidade.
-Editar: Edite o conteúdo das suas notas de forma intuitiva.
-Salvar: Salve suas notas para referência futura.
-Interface Simples: Uma interface de usuário minimalista e fácil de usar.
+Criar Notas: Crie novas notas com facilidade. <br>
+Editar: Edite o conteúdo das suas notas de forma intuitiva. <br>
+Salvar: Salve suas notas para referência futura. <br>
+Interface Simples: Uma interface de usuário minimalista e fácil de usar. <br>
 
 # Pré-requisitos
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java.
