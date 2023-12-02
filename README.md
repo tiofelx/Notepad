@@ -31,7 +31,9 @@ Agora você pode começar a criar, editar e salvar suas notas!
 Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 # Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença MIT. <br>
+Aproveite este projeto como um ponto de partida para construir suas próprias aplicações em Java!
 
+###
 Esperamos que este bloco de notas seja útil para suas necessidades diárias de tomada de notas. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 Aproveite o seu bloco de notas!
