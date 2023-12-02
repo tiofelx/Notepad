@@ -8,7 +8,7 @@ Editar: Edite o conteúdo das suas notas de forma intuitiva.
 Salvar: Salve suas notas para referência futura.
 Interface Simples: Uma interface de usuário minimalista e fácil de usar.
 
-#Pré-requisitos
+# Pré-requisitos
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java.
 
 # Como Usar
