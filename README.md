@@ -3,7 +3,7 @@
 Este repositório abriga um simples bloco de notas (Notepad) desenvolvido em Java. O bloco de notas é uma aplicação de desktop que permite aos usuários criar, editar e salvar notas de forma rápida e fácil.
 
 # Funcionalidades
-Criar Notas: Crie novas notas com facilidade. <br>
+<strong>Criar Notas: </strong> Crie novas notas com facilidade. <br>
 Editar: Edite o conteúdo das suas notas de forma intuitiva. <br>
 Salvar: Salve suas notas para referência futura. <br>
 Interface Simples: Uma interface de usuário minimalista e fácil de usar. <br>
@@ -22,7 +22,7 @@ cd Notepad
 
 Execute o bloco de notas: <br>
 bash $ <br>
-javac Notepad.java
+javac Notepad.java <br>
 java Notepad
 
 Agora você pode começar a criar, editar e salvar suas notas!
