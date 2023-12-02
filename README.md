@@ -1,6 +1,6 @@
 # Notepad
 
-Este é um repositório para um simples bloco de notas (Notepad) desenvolvido em Python. O bloco de notas é uma aplicação de desktop que permite aos usuários criar, editar e salvar notas de forma rápida e fácil.
+Este repositório abriga um simples bloco de notas (Notepad) desenvolvido em Java. O bloco de notas é uma aplicação de desktop que permite aos usuários criar, editar e salvar notas de forma rápida e fácil.
 
 # Funcionalidades
 Criar Notas: Crie novas notas com facilidade.
