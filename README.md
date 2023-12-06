@@ -12,20 +12,17 @@ Este repositório abriga um simples bloco de notas (Notepad) desenvolvido em Jav
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema. Você pode baixar o JDK em oracle.com/java.
 
 # Como Usar
-Clone o repositório: <br>
+<strong> Clone o repositório: </strong> <br>
 bash $ <br>
 git clone https://github.com/tiofelx/Notepad.git
 
-Navegue até o diretório do projeto: <br>
+<strong> Navegue até o diretório do projeto: </strong> <br>
 bash $ <br>
 cd Notepad
 
-Execute o bloco de notas: <br>
-bash $ <br>
-javac Notepad.java <br>
-java Notepad
+<strong> Execute o bloco de notas: </strong> <br>
 
-Agora você pode começar a criar, editar e salvar suas notas!
+RUN'MyApp.main()' ou CONTROL + SHIFT + F10 (IntelliJ)
 
 # Contribuição
 Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
